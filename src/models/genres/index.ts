@@ -1,0 +1,1 @@
+export { GenresResolver } from "./GenresResolver";
